@@ -1,0 +1,42 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+.slider{
+    position: relative;
+    top: 0%;
+    left: 0%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: red;
+    font-size: 40px;
+}
+.slide{
+    
+    padding: 2rem 0;
+    min-width: 100%;
+    border-radius: 20px;
+}
+.sImage{
+    height: 18%;
+    width: 41%;
+    object-fit: contain
+}
+.qust{
+    text-align: center;
+    align-items: center;
+    margin: 10px 10px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+h1{
+    text-align: center;
+    /* font-size: large; */
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+
+}
