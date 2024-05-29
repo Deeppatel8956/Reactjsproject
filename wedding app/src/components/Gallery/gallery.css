@@ -1,0 +1,64 @@
+.gallery-h{
+    margin: 10px 25rem;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    /* padding: 10px; */
+}
+.gallerd{
+    margin-top: 10px;
+    font-family: "Roboto", sans-serif;
+}
+.gallerd button{
+    padding: 0 10px;
+    border: none;
+    background-color: white;
+}
+.gallery-second span{
+    color: gray;
+}
+.gallery-second .gallery-ha{
+    margin-left: 14px;
+    font-family: "Roboto", sans-serif;
+}
+.gallery-second h1{
+    font-family: "Roboto", sans-serif;
+}
+
+.holding{
+    display: flex;
+    justify-content: space-around;
+}
+.flex-ga button {
+    margin-top: 30px;
+    background-color: white;
+    border: none;
+    font-size: larger;
+    
+}
+.flex-ga button:hover{
+    color: blue;
+}
+.galler-second-slider{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
+.galler-second-slider .splider{
+    font-size: larger;
+    color: rgba(33, 157, 33, 0.968);
+    font-family: "Roboto", sans-serif;
+}
+.galler-second-slider img{
+    height: 50px;
+    border-radius: 40px;
+    margin-top: 10px;
+}
+.splider-flex{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 40rem;
+    font-family: "Roboto", sans-serif;
+}
+.splider-flex ul li{
+    list-style: none;
+    font-family: "Roboto", sans-serif;
+}

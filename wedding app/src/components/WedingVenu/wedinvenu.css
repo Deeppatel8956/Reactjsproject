@@ -1,0 +1,27 @@
+.categoryed-we{
+    text-align: center;
+    margin: 20px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+}
+
+.categoryed-but button{
+    border: none;
+    padding: 0 5px;
+    background-color: white;
+    margin: 20px 10px;
+    color: gold;
+    font-size: x-large;
+    font-family: "Roboto", sans-serif;
+}
+
+.categoryed-view button{
+    padding: 10px 20px;
+    border: none;
+    background-color: #fff;
+    color: #000;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-family: "Roboto", sans-serif;
+}
+
