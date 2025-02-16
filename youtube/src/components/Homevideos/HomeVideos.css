@@ -1,0 +1,19 @@
+.homeVidoes{
+    flex: 0.8;
+    padding: 40px 10px;
+    /* margin:0 10px; */
+    padding-bottom: 0;
+    background-color: #f9fdf9;
+}
+
+.homeVidoes >h2{
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+
+.homeVideosItem{
+    display: flex;
+    flex-wrap: wrap;
+    /* margin: 10px; */
+}

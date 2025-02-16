@@ -1,0 +1,32 @@
+.searchVideocard{
+    display: flex;
+    margin-bottom: 30px;
+    width: 100%;
+}
+.searchVideocard > img{
+    object-fit: contain;
+    width: 246px;
+    height: 138px;
+}
+.serachVideocardText{
+    margin-left: 14px;
+}
+.searchVideocardChannel{
+    font-size: 12px;
+    color: #404040;
+}
+.searchVideocardsubs{
+    padding: 2px;
+    margin-top: 3px;
+    margin-bottom: 4px;
+    background-color: lightgray;
+}
+.searchVideocardsubno{
+    font-weight: bolder;
+}
+
+.searchedVideoCardDescription {
+	margin-top: 20px;
+	font-size: 12px;
+	color: #606060;
+}

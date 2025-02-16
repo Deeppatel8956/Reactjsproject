@@ -1,0 +1,31 @@
+.channelcard{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.channelicon{
+    height: 120px !important;
+    width: 120px !important;
+    object-fit: contain;
+    margin: 40px 20px;
+}
+
+.channeltext{
+    padding: 0 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.channeltext > p{
+    font-size: small !important;
+    color: #606060;
+}
+
+.channeltext >h4{
+    display: flex;
+    justify-content: space-between;
+     align-items: center;
+}
+
